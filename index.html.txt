@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title>upload file</title>
+    <body>
+      <h1>Belajar Beb Desaign</h1>
+      <p> Bealajar langsung</p>
+    </body>
+  </head>
+</html>
